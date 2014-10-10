@@ -1,0 +1,56 @@
+ex06
+
+?/20
+
+README.md
+tres bien
+
+SVPL utilisez le dossier lib  (voir mes exemples)
+
+attention: formatage (voir: https://www.dartlang.org/articles/style-guide/)
+
+Question 1
+----------
+true
+true
+false
+false
+true
+
+afficher le mot: est un polyndrom
+...
+
+Question 2
+----------
+1680
+ajouter une explication
+
+Question 3
+----------
+A
+B
+E
+D
+C
+E
+95: A
+...
+
+Question 4
+----------
+[Jim, John, Eric, Terry]
+[Jean-François, Marc-André, Jean-Philippe, Frédérick]
+[Caroline, Emmanuel, Napoleon, Nathalie]
+afficher la liste d'entrée
+
+Question 5
+----------
+[Canadiens de Montréal, Carrey Price, P.k Subban, Canucks de Vancouver, Daniel Sedin, Henrik Sedin, Islanders de New York, John Tavares, Penguin de Pittsburg, Evgeni Malkin, Sydney Crosby, Red wings de Detroit, Henrik Zetterberg, Pavel Datsyuk, Stars de Dallas, Jamie Benn, Tyler Seguin]
+
+Prepare two lists, one with the names of players and their clubs, and the other with the names of clubs. Make the third list with clubs ordered by their names, where each club is followed by its list of players.
+TWO LISTS: PLAYERS AND THEIR CLUBS, CLUBS
+
+
+
+
+
