@@ -1,5 +1,37 @@
 ex06
 
+10/20
+
+README.md
+tres bien
+
+-4
+utiliser le dossier lib  (voir mes exemples)
+
+6.1
+-1
+se il vous plaît afficher des mots
+
+6.2
+-1
+quels sont les dates?
+
+6.3
+-1
+quels sont les chiffres?
+
+6.4
+-1
+se il vous plaît afficher la liste d'entrée
+
+6.5
+-1
+Prepare two lists, one with the names of players and their CLUBS,
+-1
+se il vous plaît utiliser List et non Map
+
+---
+
 ?/20
 
 README.md
